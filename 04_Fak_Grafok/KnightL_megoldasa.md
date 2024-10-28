@@ -2,6 +2,7 @@
 # KnightL on a Chessboard - Megoldás
 
 Ez a megoldás a KnightL nevű speciális "lovag" figura lépéseit modellezi egy \(n x n)-es sakktáblán. A cél az, hogy megtaláljuk a minimális lépésszámot, amely szükséges ahhoz, hogy a KnightL egy adott lépéspár (a,b) esetén a (0,0) kezdőpozícióból az (n-1,n-1) végcélba jusson.
+A feladatot Python nyelven oldottam meg.
 
 ## Áttekintés
 A megoldás alapját egy szélességi keresés (BFS - Breadth-First Search) algoritmus képezi, ami tipikusan a legrövidebb út megtalálására szolgál egy gráfban. Ebben az esetben a sakktábla mezői képezik a gráf csúcsait, és a KnightL lépései (az (a,b) és (b,a) mozgások) alkotják az éleket.
