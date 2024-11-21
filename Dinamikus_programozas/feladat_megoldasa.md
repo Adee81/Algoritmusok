@@ -8,6 +8,7 @@ A feladat célja, hogy meghatározzuk, hány különböző tömböt lehet létre
 5. Az egymást követő elemek értéke mindig eltérő.
 
 Az eredményt modulo \( 10^9 + 7 \)-tel kell visszaadni.
+A feladatot Python nyelven oldottam meg.
 
 ---
 
