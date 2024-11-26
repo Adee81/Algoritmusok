@@ -9,4 +9,5 @@ https://github.com/Adee81/Algoritmusok/tree/main/02_Rekurzio
 ## 3.	Dinamikus programozási feladat
 https://github.com/Adee81/Algoritmusok/tree/main/Dinamikus_programozas
 
-4. Fák, Gráfok
+## 4. Fák, Gráfok
+https://github.com/Adee81/Algoritmusok/tree/main/04_Fak_grafok
