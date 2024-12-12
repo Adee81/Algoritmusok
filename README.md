@@ -11,3 +11,6 @@ https://github.com/Adee81/Algoritmusok/tree/main/Dinamikus_programozas
 
 ## 4. Fák, Gráfok
 https://github.com/Adee81/Algoritmusok/tree/main/04_Fak_grafok
+
+## 5. Kollokvium feladat
+https://github.com/Adee81/Algoritmusok/tree/main/05_Kollokvium
